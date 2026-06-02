@@ -1,0 +1,9 @@
+Most figures in the paper can be reproduced using the respective Notebooks.
+
+Fig.1    : Scatter plots of detrended monthly mean anomalies in the tropical middle stratosphere --> Motivation_Fig_1.ipynb
+
+Fig.2    : Process-oriented causal inference framework --> schematic with no code
+
+Fig.3    : Causal justification and validation --> Toymodel_Fig_3.ipynb
+	  
+Fig.4-7  : Causal inference (Fig. 4), sensitivity tests (Fig. 5), regime-oriented direct causal effects (Fig. 6), and total causal effects across different time lags (Fig. 7) --> Causal_inference_Fig_4_5_6_7.ipynb
