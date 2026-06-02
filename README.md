@@ -8,6 +8,7 @@ This repository is part of the manuscript published in Atmospheric Chemistry and
 
 Author: Evgenia Galytska, [egalytska@iup.physik.uni-bremen.de](mailto:egalytska@iup.physik.uni-bremen.de)
 
+[![DOI](https://zenodo.org/badge/1257014134.svg)](https://zenodo.org/badge/latestdoi/1257014134)
 ## Repository Content
 
 - `.py scripts`: Python helper functions;
